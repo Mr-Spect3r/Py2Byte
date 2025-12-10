@@ -129,22 +129,15 @@ class Py2Byte:
 
 def main():
     print (f"""{b}
-                                                                                                            
-                                                                                                            
-________                                                       ___                   ________               
-`MMMMMMMb.                                                     `MM                   `MMMMMMMb.             
- MM    `Mb               /                                      MM                    MM    `Mb             
- MM     MM ____    ___  /M      ____     ____     _____     ____MM   ____     ____    MM     MM ____    ___ 
- MM    .M9 `MM(    )M' /MMMMM  6MMMMb   6MMMMb.  6MMMMMb   6MMMMMM  6MMMMb   6MMMMb   MM     MM `MM(    )M' 
- MMMMMMM(   `Mb    d'   MM    6M'  `Mb 6M'   Mb 6M'   `Mb 6M'  `MM 6M'  `Mb MM'  `Mb  MM    .M9  `Mb    d'  
- MM    `Mb   YM.  ,P    MM    MM    MM MM    `' MM     MM MM    MM MM    MM      ,MM  MMMMMMM9'   YM.  ,P   
- MM     MM    MM  M     MM    MMMMMMMM MM       MM     MM MM    MM MMMMMMMM     ,MM'  MM           MM  M    
- MM     MM    `Mbd'     MM    MM       MM       MM     MM MM    MM MM         ,M'     MM           `Mbd'    
- MM    .M9     YMP      YM.  ,YM    d9 YM.   d9 YM.   ,M9 YM.  ,MM YM    d9 ,M'       MM            YMP     
-_MMMMMMM9'      M        YMMM9 YMMMM9   YMMMM9   YMMMMM9   YMMMMMM_ YMMMM9  MMMMMMMM _MM_            M      
-               d'                                                                                   d'      
-           (8),P                                                                                (8),P       
-            YMM                                                                                  YMM                             
+                                                                                                                                                                                
+  ▄▄▄▄▄▄                                                ▄▄             
+ █▀██▀▀▀█▄                                         █▄    ██            
+   ██▄▄▄█▀                                ▄        ██    ██       ▄    
+   ██▀▀█▄   ▄█▀█▄ ▄▀▀█▄ ▄██▀█ ▄██▀█ ▄█▀█▄ ███▄███▄ ████▄ ██ ▄█▀█▄ ████▄
+ ▄ ██  ██   ██▄█▀ ▄█▀██ ▀███▄ ▀███▄ ██▄█▀ ██ ██ ██ ██ ██ ██ ██▄█▀ ██   
+ ▀██▀  ▀██▀▄▀█▄▄▄▄▀█▄███▄▄██▀█▄▄██▀▄▀█▄▄▄▄██ ██ ▀█▄████▀▄██▄▀█▄▄▄▄█▀   
+                                                                       
+                         
                     {gn}Tg: @MrEsfelurm
 
            """)
@@ -164,8 +157,6 @@ _MMMMMMM9'      M        YMMM9 YMMMM9   YMMMM9   YMMMMM9   YMMMMMM_ YMMMM9  MMMM
             print (f"{tr}The code is successfully returned to the initial state! {yw}Decrypted.py")
         else:
             print(f"{fls}Error: {result.stderr}")
-
-
 
 if __name__ == "__main__":
     main()
