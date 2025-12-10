@@ -60,7 +60,7 @@ with open('output.txt','w',encoding='UTF-8') as f:
 
 # Step 2
 
-<b>Run the Bytecode2Py.py file</b>
+<b>Run the Py2Byte.py file</b>
 
 - Run
 
