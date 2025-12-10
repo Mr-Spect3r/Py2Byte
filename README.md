@@ -1,9 +1,9 @@
 # Python (Opcode) to Bytecode
 
-<b>Conver Byteccode to python and ByteCode to python</b>
+<b>Convert disassembled Python opcode back into a valid Python bytecode (.pyc) file.</b>
 
 
-<img src="https://github.com/user-attachments/assets/1efdd1f2-3450-4c17-8fdc-19a30af5c177">
+<img src="https://github.com/user-attachments/assets/663b49ed-987c-4148-93f7-f6ecf11e4459">
 
 
 # What is bytecode?
