@@ -35,7 +35,7 @@ def func(e, f, g):
 func(a, b, c)
 ```
 
-- Bytecode
+- Opcode
 
   ```
     1           0 LOAD_CONST               0 (1)
@@ -68,7 +68,7 @@ func(a, b, c)
              44 LOAD_CONST               4 (None)
              46 RETURN_VALUE```
 
-### How to Convert Python to Bytecode
+### How to Convert Python to Opcode/disassemble
 
 - install dis
 
